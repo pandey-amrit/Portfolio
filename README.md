@@ -1,3 +1,3 @@
-"# Portfolio" 
+"# Portfolio"
 This is my main dark themed portfolio website, consisting of mainly all of my projects.
-Will add filtering to my projects section.
+I need to update some of my new latest projects in this website.
